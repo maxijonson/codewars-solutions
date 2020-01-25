@@ -1,10 +1,10 @@
-# Codewars Solutions
-
-<div style="text-align: center">
+<!-- # Codewars Solutions -->
+<h1 align="center">Codewars Solutions</h1>
+<p align="center">
     <a href="https://www.codewars.com/users/maxijonson">
-        <img src="https://www.codewars.com/users/maxijonson/badges/large" />
+        <img src="https://www.codewars.com/users/maxijonson/badges/micro" />
     </a>
-</div>
+</p>
 
 This repo contains my solutions for some challenges on Codewars along with the tests that were provided. The dependencies are equivalent to the ones used by Codewars for TypeScript:
 
