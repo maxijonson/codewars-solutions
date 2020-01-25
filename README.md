@@ -11,6 +11,14 @@ This repo contains my solutions for some challenges on Codewars along with the t
 -   Mocha 5.2.0
 -   Chai 4.2.0
 
+## Tests
+
+To validate the challenges with the validation method provided by the challenge, simply run:
+
+```bash
+npm test
+```
+
 ## Challenges
 
 Here's a list of all the challenges I've done (and documented).
