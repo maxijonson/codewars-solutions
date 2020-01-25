@@ -1,0 +1,32 @@
+{
+    "name": "codewars-solutions",
+    "version": "1.0.0",
+    "description": "My solutions to some Codewars challenges",
+    "main": "index.ts",
+    "scripts": {
+        "test": "mocha -r ts-node/register tests/**/*.test.ts"
+    },
+    "author": "Tristan Chin",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "@types/chai": "^4.2.7",
+        "@types/inquirer": "^6.5.0",
+        "@types/lodash": "^4.14.149",
+        "@types/mocha": "^5.2.7",
+        "@typescript-eslint/eslint-plugin": "^2.17.0",
+        "@typescript-eslint/parser": "^2.17.0",
+        "chai": "4.2.0",
+        "eslint-config-airbnb-base": "^14.0.0",
+        "eslint-config-prettier": "^6.9.0",
+        "eslint-config-typescript": "^3.0.0",
+        "eslint-plugin-import": "^2.19.1",
+        "eslint-plugin-jsx-a11y": "^6.2.3",
+        "eslint-plugin-prettier": "^3.1.2",
+        "eslint": "^6.8.0",
+        "mocha": "5.2.0",
+        "prettier": "^1.19.1",
+        "ts-node": "^8.6.2",
+        "typescript": "3.3"
+    }
+}
