@@ -1,5 +1,11 @@
 # Codewars Solutions
 
+<div style="text-align: center">
+    <a href="https://www.codewars.com/users/maxijonson">
+        <img src="https://www.codewars.com/users/maxijonson/badges/large" />
+    </a>
+</div>
+
 This repo contains my solutions for some challenges on Codewars along with the tests that were provided. The dependencies are equivalent to the ones used by Codewars for TypeScript:
 
 - TypeScript 3.3
