@@ -26,9 +26,21 @@ Here's a list of all the challenges I've done (and documented).
 ---
 
 ### Alphabetical Addition
+
 Adds up multiple letters together. If the sum is bigger than 'z', the letters will overflow back to 'a'.
+
 <p align="right">
     <a href="https://www.codewars.com/kata/5d50e3914861a500121e1958/typescript">challenge</a> | <a href="src/Alphabetical%20Addition/addLetters.ts">solution</a>
+</p>
+
+---
+
+### Square(n) Sum
+
+Squares numbers and calculates the sum of them
+
+<p align="right">
+    <a href="https://www.codewars.com/kata/515e271a311df0350d00000f/typescript">challenge</a> | <a href="src/Square(n)%20Sum/squareSum.ts">solution</a>
 </p>
 
 ---
